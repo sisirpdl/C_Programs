@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main() {
   double first, second, temp;
-  printf("Enter first number: ");
+  printf("enter first number: ");
   scanf("%lf", &first);
   printf("Enter second number: ");
   scanf("%lf", &second);
